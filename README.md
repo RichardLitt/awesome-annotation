@@ -30,6 +30,10 @@ This is a work in progress. I will be updating this as I think of better ways to
 
 #### PeerLibrary
 
+#### [Pundit](http://thepund.it/) 
+
+  Chrome plugin and web app that lets you annotate text/images in the browser and share them. It is focused around the   creation of semantically structured data. Annotations can be private or public.
+
 
 # Other Lists
 

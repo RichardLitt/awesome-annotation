@@ -6,6 +6,12 @@ This is a work in progress. I will be updating this as I think of better ways to
 
 # Pretty cool annotation tools:
 
+#### [annotator](http://annotatorjs.org/)
+
+  > Annotator is an open-source JavaScript library to easily add annotation functionality to any webpage.
+  
+  This is used to power (and contributed to by) Hypothes.is, edX, Annotation Studio, and Peer Library. 
+
 #### [simonv3/annotate](https://github.com/simonv3/annotate/)
 
   > Image Annotation App for Sandstorm

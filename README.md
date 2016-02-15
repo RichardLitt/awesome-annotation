@@ -23,6 +23,8 @@ This is a work in progress. I will be updating this as I think of better ways to
   This is an attempt to build a Chrome extension that can annotate PDFs and HTML and help scientists speed up research. 
   Stack: React, PDFjs.
 
+#### [CAT (Coding Analysis Toolkit)](http://cat.texifter.com/)
+
 #### [egas](https://demo.bmd-software.com/egas/)
 
   > Collaborative biomedical text annotation.

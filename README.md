@@ -1,10 +1,25 @@
-# awesome-annotation
+
+# awesome-annotation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > State of the annotation field
 
-This is a work in progress. I will be updating this as I think of better ways to spec out the state of annotation in the field today. Basically, this is for me to get a better grip on what I know and how to act on it. Feel free to add to this.
+## Table of Contents
 
-# Pretty cool annotation tools:
+- [Pretty cool annotation tools:](#pretty-cool-annotation-tools)
+  - [annotator](#annotator)
+  - [simonv3/annotate](#simonv3annotate)
+  - [Beagle](#beagle)
+  - [CAT (Coding Analysis Toolkit)](#cat-coding-analysis-toolkit)
+  - [egas](#egas)
+  - [Genius](#genius)
+  - [Hypothes.is](#hypothesis)
+  - [Open Annotation](#open-annotation)
+  - [PeerLibrary](#peerlibrary)
+  - [Pundit](#pundit)
+- [Contribute](#contribute)
+- [Other Lists](#other-lists)
+
+## Pretty cool annotation tools:
 
 #### [annotator](http://annotatorjs.org/)
 
@@ -42,8 +57,15 @@ This is a work in progress. I will be updating this as I think of better ways to
 
   Chrome plugin and web app that lets you annotate text/images in the browser and share them. It is focused around the   creation of semantically structured data. Annotations can be private or public.
 
+## Contribute
 
-# Other Lists
+Please do! Check out the [issues](https://github.com/RichardLitt/awesome-annotation/issues) or submit a PR.
+
+## Other Lists
 
 * [chbrown/awesome-annotation](https://github.com/chbrown/awesome-annotation) List of online / computer-based annotation tools
  - Possible defunct?
+
+## License
+
+CC0
